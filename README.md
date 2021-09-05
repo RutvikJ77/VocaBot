@@ -1,4 +1,4 @@
-![VocaBot](https://i.imgur.com/RsFSTWv.jpg)
+![VocaBot](https://i.imgur.com/3emgh7R.jpg)
 
 ## Inspiration
 
