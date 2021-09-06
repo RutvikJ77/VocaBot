@@ -1,7 +1,7 @@
 ![VocaBot](https://i.imgur.com/3emgh7R.jpg)
 
 ## Inspiration
-
+asfjkhasujklasf
 English is not everyone's first language and the one who teaches us a language that is so versatile across the globe is our Teacher.  With respect towards a language and our teachers, we have developed Vocabot.
 
 ## What it does
