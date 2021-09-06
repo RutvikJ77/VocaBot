@@ -1,5 +1,5 @@
 ![VocaBot](https://i.imgur.com/3emgh7R.jpg)
-![You](https://youtu.be/ootx-YLkN9A)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ootx-YLkN9A/0.jpg)](https://www.youtube.com/watch?v=ootx-YLkN9A)
 ## Inspiration
 asfjkhasujklasf
 English is not everyone's first language and the one who teaches us a language that is so versatile across the globe is our Teacher.  With respect towards a language and our teachers, we have developed Vocabot.
